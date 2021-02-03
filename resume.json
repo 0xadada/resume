@@ -1,0 +1,323 @@
+{
+    "basics": {
+        "name": "Ron. Adams",
+        "label": "Software Architect",
+        "picture": "",
+        "email": "developer@0xADADA.pub",
+        "phone": "Upon request",
+        "website": "https://0xadada.pub/",
+        "summary": "Ron has been building web products and services professionally since 2000. Involved from initial strategy to architecture, infrastructure deployment, software development, QA, delivery, maintenance and security. He is currently interested in the uses and application of cryptocurrencies, and the promotion of open source web standards.",
+        "location": {
+            "address": "Upon request",
+            "postalCode": "02143",
+            "city": "Somerville",
+            "countryCode": "US",
+            "region": "Massachusetts"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "0xadada",
+                "url": "https://github.com/0xadada/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Cinch Financial",
+            "position": "Senior Engineer (Consumer Tech Lead)",
+            "website": "https://cinchfinancial.com/",
+            "startDate": "2016-11-07",
+            "endDate": "2018-09-24",
+            "summary": "Cinch Financial is building the world's first autonomous personal financial manager to optimize users entire financial life.",
+            "highlights": [
+                "Lead a team of engineers in evaluation and critique of product/UX requirements, tasking, scheduling, phased implementation, code review, collaborative problem solving, public speaking, and mentorship.",
+                "Architecture and implementation of an Ember.js frontend web application and multiple Elixir / Phoenix web application microservices on the backend using websockets. Deployed on Amazon AWS using Docker containers. Implemented multiple fully-tested software features.",
+                "Evangelized the adoption of code coverage to increase the reliability of tested source code from 6% to 33%. Promoted and implemented a method of integrating analytics with a 3rd-party tracking API using 1-way hashing functions and REST APIs to maintain customer privacy.",
+                "Contributions to multiple open-source projects on GitHub: Ember, Homebrew, mirai-audio."
+            ]
+        },
+        {
+            "company": "Nara Logics, Inc",
+            "position": "Principal Developer",
+            "website": "https://naralogics.com/",
+            "startDate": "2016-03-01",
+            "endDate": "2016-10-21",
+            "summary": "Nara Logics is a pioneer in neuroscience-based AI providing personalized recommendations across channels and categories. They offer a b2b REST API as well as web and mobile applications.",
+            "highlights": [
+                "Designed concept, architecture and lead development of a Django web application in Python, deployed on Amazon AWS Elastic Container Service using Docker containers to provide visualization and configuration of a neural network platform",
+                "Designed and developed a continuous deployment system with Jenkins, GitHub and AWS to automate rolling deployments of fully-tested features",
+                "Developed full code linting and test coverage. Unit and smoke testing with Python, Selenium, Jasmine, and a suite of code-quality tools (pep8, pep257, jsHint) to ensure high code quality and correctness prior to deployment",
+                "Lead the adoption of Twelve-Factor methodology, automated testing and continuous deployments as an integral part of the team development process",
+                "Successfully promoted and designed a method of using 1-way hashing functions and encryption to improve client & customer privacy"
+
+            ]
+        },
+        {
+            "company": "Nara Logics, Inc",
+            "position": "Senior Developer",
+            "startDate": "2012-03-26",
+            "endDate": "2016-03-01",
+            "highlights": [
+                "Designed strategy and lead development on a PHP MVC web application using Backbone.js and Mustach to showcase personalized hotel, restaurant, and movie recommendations",
+                "Lead refactoring effort to implement a mobile-first, responsive web application for desktop and mobile audiences using CSS3 and Javascript",
+                "Architected and developed an Android and iOS application in JavaScript using PhoneGap, Node.JS, Grunt, Gulp and consuming the Nara.me REST API",
+                "Lead concept, architected, developed and maintained corporate website using PHP and Craft CMS; deployed on EC2",
+                "Lead development of DNT (Do Not Track) compliance across multiple web sites",
+                "Developed and released responsive-carousel, an open source jQuery plugin",
+                "Developed and released l-flexbox-css, an open soure lightweight CSS layout library using Flexbox",
+                "Contributed to development of an internal REST API in PHP to be consumed by Nara web, mobile and native applications"
+            ]
+        },
+        {
+            "company": "visual assault, llc",
+            "position": "Founder",
+            "website": "https://visual-assault.org/",
+            "startDate": "2004-02-01",
+            "summary": "Since 2004 visual assault has been designing and building a wide range of web applications, sites, and tools for open source projects, companies, and startups. We advise, consult, design, implement, optimize, and maintain.",
+            "highlights": [
+                "Developed a Bitcoin commitment scheme card game using blockchain transactions to facilitate hiding, binding, and payout phases of the game; used during a talk on novel applications of the Bitcoin network",
+                "Developed contributions to the bitcoin core website",
+                "Architecture and development of Dockdj, an open source Django web application in Python and deployed inside Docker containers orchestrated by Amazon Elastic Beanstalk",
+                "Developed contributions to Homebrew, and open source package manager for OS X",
+                "Developed and maintained package for an Arch Linux Twitter Color Emoji SVG typeface",
+                "Built and maintained professional sponsorship relationships to campaign a race car in multiple race series",
+                "Strategy, graphic design, information architecture, development and deployment of multiple sites (DentSport.com, WickedBigMeet.com, rlagemann.com)",
+                "Developed and released a popular open source PHP WordPress theme"
+            ]
+        },
+        {
+            "company": "Boston Interactive",
+            "position": "Senior Application Developer",
+            "website": "http://www.bostoninteractive.com/",
+            "endDate": "2012-03-16",
+            "startDate": "2011-08-01",
+            "summary": "Boston Interactive is an interactive design and development agency.",
+            "highlights": [
+                "Successfully lead adoption of responsive web design techniques and processes to deliver more usable, accessible web applications",
+                "idg.com - Developed interactive world map using JavaScript, RaphaelJS and SVG",
+                "Developed a HTML5 video player using JavaScript",
+                "Architected and developed a largescale CSS architecture for multiple large web properties",
+                "Received SiteCore certification for ASP.NET",
+                "Developed multiple client websites in SiteCore using HTML5, CSS3 using a responsive design approach"
+            ]
+        },
+        {
+            "company": "Cambridge BioMarketing",
+            "position": "Senior Developer",
+            "website": "http://www.cambridgebmg.com/",
+            "startDate": "2009-10-01",
+            "endDate": "2011-07-01",
+            "summary": "Cambridge BioMarketing is an advertising and marketing agency specializing in BioTech.",
+            "highlights": [
+                "Successfully developed and maintained excellent relationships with clients by providing technical insight, strategy and quality code",
+                "Lead development of multiple projects using HTML5 and CSS3",
+                "Lead development team schedules, deadlines, designed wireframes",
+                "Developed multiple sites using CodeIgniter PHP MVC framework, WordPress, SiteCore, Eloqua, ASP.NET 3.5, MsSQL, HTML5, jQuery, Modernizr, hCard, hCalendar"
+            ]
+        },
+        {
+            "company": "RDVO, Inc",
+            "position": "Senior Developer",
+            "website": "http://rdvo.com/",
+            "startDate": "2007-12-01",
+            "endDate": "2009-10-01",
+            "summary": "RDVO is a digital interactive agency that creates web and mobile applications and experiences. RDVO was acquired by Cambridge BioMarketing in 2009.",
+            "highlights": [
+                "Developed multiple web projects with ASP.NET and PHP MVC frameworks for Gillette, Proctor & Gamble, HP, Fiduciary Trust, MBTA",
+                "Monster.com — Developed advanced search interface for homepage using jQuery and CSS",
+                "Oxfam America — Lead Intranet research and evaluation of modern intranet software to fit Oxfam goals",
+                "Technology consulting, strategy and educating clients on best practices",
+                "Shire Pharmaceuticals — Project planning, database & platform architecture, developed features using ASP.NET 3.5 with MsSQL backend XHTML/CSS2 frontend using jQuery",
+                "Lead adoption of version control (Subversion) as an integral part of the teams development process"
+            ]
+        },
+        {
+            "company": "n2N Commerce",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "2007-09-01",
+            "endDate": "2007-12-20",
+            "summary": "n2N Commerce was an angel-invested startup company funded by Victoria's Secret to consolidate their catalog and store systems onto an eCommerce platform.",
+            "highlights": [
+                "Developed web rendering pipelines in the DemandWare pipeline language",
+                "Developed interfaces in HTML, JavaScript and CSS based on Photoshop comps",
+                "Developed automated frontend testing using Ruby & the FireWatir test framework"
+            ]
+        },
+        {
+            "company": "HP / Autonomy, Inc.",
+            "position": "Research Software Engineer",
+            "website": "http://www.autonomy.com/",
+            "startDate": "2003-01-01",
+            "endDate": "2007-08-25",
+            "summary": "The Advanced Technology Group is an R&D department of the video analytics and natural-language processing division of Autonomy (Later HP). Tasked with building a real-time broadcast news search web application.",
+            "highlights": [
+                "Designed and developed JavaScript pub-sub messaging framework to decouple components",
+                "Lead efforts to refactor web application for cross-browser compatibility with XHTML 1.0 and CSS",
+                "Designed and developed a Javascript WYSIWYG text editor",
+                "Developed features for Java EE web application using Java Struts MVC framework",
+                "Specified, designed and developed a web frontend for a real-time streaming video player using AJAX and VideoLan streaming server",
+                "Conducted research evaluations of the quantitative differences between machine translation systems",
+                "Performed network administration and assembled rack-mounted server systems"
+            ]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Massachusetts Institute of Technology",
+            "area": "MAS.S65 Blockchain Technologies - Media Lab",
+            "studyType": "",
+            "startDate": "2015-09-15",
+            "endDate": "2015-12-15",
+            "gpa": "",
+            "courses": [
+                "MAS.S65 Blockchain Technologies"
+            ]
+        },
+        {
+            "institution": "Northeastern University",
+            "area": "Computer Science & Cognitive Psychology",
+            "studyType": "Bachelor of Science",
+            "startDate": "1999-09-01",
+            "endDate": "2004-05-01",
+            "gpa": "",
+            "courses": [
+                "Artificial Intelligence",
+                "Software Development",
+                "Algorithms & Data Structures I & II",
+                "Object Oriented Design",
+                "Computer Organization & Design",
+                "Operating System Design",
+                "Automata and Theory",
+                "Language Proof & Logic",
+                "Discrete Mathematics",
+                "Cognition",
+                "Sensation",
+                "Personality",
+                "Social Psychology",
+                "Japanese (Multiple)"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Languages",
+            "level": "Master",
+            "keywords": [
+                "Python",
+                "JavaScript",
+                "HTML5, HTML",
+                "CSS3, CSS",
+                "Sass, Less",
+                "PHP",
+                "Ruby",
+                "Bash",
+                "C#",
+                "SQL",
+                "Java",
+                "C",
+                "C++",
+                "XSLT",
+                "PERL"
+            ]
+        },
+        {
+            "name": "Frameworks / Libraries",
+            "level": "Master",
+            "keywords": [
+                "Django",
+                "Backbone.js",
+                "Node.js",
+                "Gulp.js, Grunt.js",
+                "AWS Boto3",
+                "python-bitcoinlib",
+                "Modernizr.js",
+                "Mustache",
+                "Bootstrap 3 & 4-alpha",
+                "jQuery",
+                "Twig",
+                "PHP MVC (Custom, Cake, CodeIgniter, etc)",
+                "ASP.NET 3.5, MVC, SiteCore, DemandWare",
+                "Apache Struts / Hibernate",
+                "Selenium, Jasmine, Mocha, nUnit, jUnit"
+            ]
+        },
+        {
+            "name": "Tools",
+            "level": "Master",
+            "keywords": [
+                "Docker",
+                "Git",
+                "Amazon AWS",
+                "BrowserSync",
+                "Ansible",
+                "Jenkins",
+                "Subversion",
+                "apt-get, yum, homebrew, pip, npm, bower",
+                "VIM",
+                "OS X",
+                "Linux",
+                "SSH",
+                "GnuPG",
+                "TOR",
+                "OpenSSL"
+            ]
+        },
+        {
+            "name": "Practices",
+            "level": "Master",
+            "keywords": [
+                "Continuous integration",
+                "Continuous deployment",
+                "Agile",
+                "SCRUM",
+                "BEM CSS component architecture",
+                "Mobile-first web development",
+                "Progressive enhancement",
+                "Responsive web design",
+                "Content-oriented web design"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native"
+        },
+        {
+            "language": "Japanese",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Technology",
+            "keywords": [
+                "Web development",
+                "Privacy",
+                "Cryptography",
+                "Cryptocurrencies",
+                "Security",
+                "Peer-to-peer networks",
+                "User Experience (UX) Design",
+                "Open source software"
+            ]
+        },
+        {
+            "name": "Non-computer",
+            "keywords": [
+                "Rock climbing",
+                "Backpacking",
+                "Motorsports (Car & Motorcycle)",
+                "Snowboarding",
+                "Cycling",
+                "Reading",
+                "Law"
+            ]
+        }
+    ]
+}
