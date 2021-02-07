@@ -1,16 +1,75 @@
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }}</title>
-  {% capture css %}
-    {% include styles.scss %}
-  {% endcapture %}
-  <style>
-    {{ css | scssify }}
-  </style>
-  {% if page.style %}
-    <style>
-    {{ page.style }}
-    </style>
-  {% endif %}
-</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }}</title>
+<style>
+:root {
+  --background-color: white;
+  --primary-text-color: #292929;
+  --light-text-color: darkgray;
+  --cta-background: #1a73e8;
+  --cta-foreground: #ffffff;
+  --text-selection-color: rgba(254, 231, 0, 0.9);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #323232;
+    --primary-text-color: #e5e5e5;
+    --light-text-color: darkgray;
+    --text-selection-color: rgba(254, 231, 0, 0.9);
+  }
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: var(--text-selection-color);
+  color: var(--primary-text-color);
+}
+
+html,
+button,
+input,
+select {
+  font-size: 100%;
+  line-height: 1.4;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--primary-text-color);
+  font-size: 10pt;
+}
+
+a {
+  color: var(--primary-text-color);
+}
+a:hover {
+  color: #0000cc;
+}
+
+code,
+pre {
+  font-family: monospace;
+}
+
+@media screen and (min-width: 840px) {
+  body {
+    box-shadow: rgb(60 64 67 / 15%) 0px 1px 3px 1px;
+    padding: 1in;
+    margin: 1in auto;
+    width: 8.5in;
+  }
+}
+@media print {
+  @page { margin: 0; }
+  body {
+    margin: 0;
+    padding: 0.45in 0.5in;
+    font-size: 9pt;
+  }
+}
+</style>
