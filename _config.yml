@@ -1,0 +1,26 @@
+# Site settings
+title: "Ron. A - Resume"
+email: enquiries@unredacted-word.pub
+url: "https://0xadada.pub"
+timezone: "America/New_York"
+description: "Resume"
+
+
+# Build settings
+permalink: pretty
+sass:
+  style: compressed
+
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE
+  - README.md
+

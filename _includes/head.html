@@ -1,0 +1,16 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  {% capture css %}
+    {% include styles.scss %}
+  {% endcapture %}
+  <style>
+    {{ css | scssify }}
+  </style>
+  {% if page.style %}
+    <style>
+    {{ page.style }}
+    </style>
+  {% endif %}
+</head>

@@ -1,0 +1,133 @@
+:root {
+  --background-color: white;
+  --primary-text-color: #292929;
+  --light-text-color: darkgray;
+  --cta-background: #1a73e8;
+  --cta-foreground: #ffffff;
+  --text-selection-color: rgba(254, 231, 0, 0.9);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #323232;
+    --primary-text-color: #e5e5e5;
+    --light-text-color: darkgray;
+    --text-selection-color: rgba(254, 231, 0, 0.9);
+  }
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+::selection {
+  background-color: var(--text-selection-color);
+  color: var(--primary-text-color);
+}
+
+html,
+button,
+input,
+select {
+  font-size: 100%;
+  line-height: 1.4;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--primary-text-color);
+  padding: 0 1.5em;
+  margin: 0;
+}
+
+a {
+  color: var(--primary-text-color);
+}
+a:hover {
+  color: #0000cc;
+}
+
+hr {
+  border: none;
+  border-top: 2pt solid var(--primary-text-color);
+  border-bottom: 1pt solid var(--primary-text-color);
+  height: 4pt;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1em;
+  font-weight: 900;
+  letter-spacing: -.025em;
+  line-height: 0.8em;
+  margin: 0.5em 0 0.2em 0;
+  text-transform: uppercase;
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  text-decoration: none;
+}
+
+h1, h2 {
+  font-size: 3rem;
+  word-break: break-word;
+}
+@media (min-width: 94rem) {
+  h1, h2 {
+    font-size: 3.5rem;
+  }
+}
+
+code,
+pre {
+  font-family: monospace;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+p {
+  hyphens: auto;
+}
+
+cite {
+  display: block;
+  font-style: normal;
+}
+
+blockquote cite,
+q {
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+}
+
+
+table {
+  width: 100%;
+  border: 2pt solid var(--primary-text-color);
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+table td,
+table th {
+  border: 2pt solid var(--primary-text-color);
+  padding: 0.25rem;
+  vertical-align: top;
+}
+table tr td:first-child,
+table tr th:first-child {
+  width: 25%;
+}

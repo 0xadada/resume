@@ -1,3 +1,30 @@
+---
+title: Ron. A - Resume
+style: |
+  .layout-default {
+    width: 8.5in;
+  }
+  .template-content {
+    margin: 0.5in;
+    padding: 0.5in;
+  }
+  @media screen {
+    .template-content {
+      box-shadow: rgb(60 64 67 / 15%) 0px 1px 3px 1px;
+    }
+    .e-content {
+      font-size: 8.75pt;
+    }
+  }
+  @media print {
+    @page { margin: 0; }
+    body { margin: 1in; }
+    .e-content { font-size: 7.5pt; }
+  }
+---
+
+<pre>
+
 
 
 ron. adams
@@ -56,3 +83,5 @@ EDUCATION
 
 2015 MAS.S65 Blockchain Technologies  ---------------------------- MIT Media Lab
 2004 BS Computer Science & Cognitive Psychology -------- Northeastern University
+
+</pre>
