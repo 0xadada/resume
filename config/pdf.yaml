@@ -1,0 +1,13 @@
+# docs https://pandoc.org/MANUAL.html#default-files
+input-files:
+- resume.md
+output-file: "docs/resume.pdf"
+metadata-files:
+- "metadata.yaml"
+from: markdown
+to: pdf
+dpi: 300
+pdf-engine: prince
+data-dir: "src"
+template: "default.html"
+verbosity: WARNING # ERROR, WARNING, or INFO

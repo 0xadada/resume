@@ -1,0 +1,13 @@
+# docs https://pandoc.org/MANUAL.html#default-files
+input-files:
+- resume.md
+output-file: "docs/index.html"
+metadata-files:
+- "metadata.yaml"
+from: markdown
+file-scope: false
+to: html5
+data-dir: "src"
+template: "default.html"
+columns: 80
+verbosity: WARNING # ERROR, WARNING, or INFO

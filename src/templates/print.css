@@ -1,0 +1,8 @@
+@media print {
+  @page { margin: 0; }
+  body {
+    margin: 0;
+    padding: 0.45in 0.5in;
+    font-size: 9pt;
+  }
+}
