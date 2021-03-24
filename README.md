@@ -1,3 +1,7 @@
+# Resume
+
+A simple resume.
+
 ## Requirements
 
 - Pandoc
@@ -9,13 +13,13 @@ on macOS:
 ```bash
 # install Pandoc and libs
 brew install pandoc
-# install fonts
-brew install --cask font-computer-modern
 # install Prince XML
-# brew install --cask --no-quarantine prince
+brew install --cask --no-quarantine prince
+# install font
+brew install --cask font-computer-modern
 ```
 
-# Generating Resume
+## Generating Resume
 
 ```bash
 # build all formats
