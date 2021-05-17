@@ -1,3 +1,4 @@
+
 ---
 title: Ron. A - Resume
 ---
@@ -53,6 +54,12 @@ EXPERIENCE
 
 2000-2002    Cyber Access, Rovia Inc, Dell (EMC) ------------- Greater Boston MA
      testing, network administration.
+
+
+PUBLICATIONS
+
+2021         The Society of the Spectacle by Guy Debord --- Unredacted Word, LLC
+     critical analysis, research, translation, editing, typesetting.
 
 
 EDUCATION
