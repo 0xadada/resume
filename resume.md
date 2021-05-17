@@ -16,7 +16,7 @@ systems given loose requirements with goals. mentor other engineers.
 create  functional,  well-tested,  maintainable  web software.   enjoy  building
 highly available,  concurrent  web  applications  using  open  source  software.
 advocate of  privacy,  open  web  standards,  and security.   speaks  and writes
-about humane design, surveillance, philosophy, and cryptocurrencies.
+about humane design, surveillance, critical theory, technology and power.
 
 
 EXPERIENCE
