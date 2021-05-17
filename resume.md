@@ -25,7 +25,7 @@ EXPERIENCE
      web application architecture and implementation, product dev, leadership.
 
 2018-        Unredacted Word -------------------------------------- Cambridge MA
-     author, editing, publishing, retail sales (books), marketing.
+     author, translator, editing, publishing, retail sales (books), marketing.
 
 2016-2018    Cinch Financial ----------------------------------------- Boston MA
      web application architecture and implementation, automation, speaking.
