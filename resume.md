@@ -1,65 +1,73 @@
 
 ---
-title: Ron. A - Resume
+title: Ron Adams - Resume
 ---
 
 ```text
-ron. adams
+Ron Adams
 
 --------------------------------------------------------------------------------
-somerville MA 02143    ron@0xadada.pub         github.com/0xadada       @0xADADA
+Somerville MA USA   ron@0xadada.pub   linkedin.com/in/ron-a   github.com/0xadada
 
 
-seventeen-plus  years  professional  engineering experience. deep  expertise and
-intuition  in  multiple technology stacks.  independently design  and  implement
-systems given loose requirements with goals. mentor other engineers.
+Staff software engineer with a passion for building great products. Deep
+expertise and intuition  in  multiple technology stacks. Independently design and
+implement systems given loose business requirements and goals. Mentor other
+engineers.
 
-create  functional,  well-tested,  maintainable  web software.   enjoy  building
-highly available,  concurrent  web  applications  using  open  source  software.
-advocate of  privacy,  open  web  standards,  and security.   speaks  and writes
-about humane design, surveillance, critical theory, technology and power.
+Successfully defined technical strategy and drove execution across Salsify, Cinch
+Financial, Nara Logics and other companies to implement products that are usable,
+accessible, delightful, performant, maintainable and cost effective. Achieved
+significant impact at several companies as a leader in the field of web
+applications, has built products that been seen by millions at Amazon, Walmart,
+Target and other big retailers with brands such as Levi's, 3M, and L'Oréal.
+
+Create  functional,  well-tested,  maintainable  web software. Enjoys  building
+highly available,  web  applications  using  open  source  software. Advocate of
+privacy,  open  web  standards,  and security. Speaks  and writes
+about society, surveillance, critical theory, and technology.
 
 
 EXPERIENCE
 
-2018-        Salsify ------------------------------------------------- Boston MA
-     web application architecture and implementation, product dev, leadership.
+2018-2023    Salsify ------------------------------------------------- Boston MA
+     Web application architecture and implementation, product dev, leadership.
 
 2018-        Unredacted Word -------------------------------------- Cambridge MA
-     author, translator, editing, publishing, retail sales (books), marketing.
+     Writer, translator, editing, publishing, retail sales (books), marketing.
 
 2016-2018    Cinch Financial ----------------------------------------- Boston MA
-     web application architecture and implementation, automation, speaking.
+     Web application architecture and implementation, automation, speaking.
 
 2012-2016    Nara Logics ------------------------------------------ Cambridge MA
-     strategy, architecture and implementation, security, automation, mentor.
+     Strategy, architecture and implementation, security, automation, mentor.
 
 2004-2016    Visual Assault --------------------------------------- Cambridge MA
-     founder, client services, implementation, UX, race car driving.
+     Founder, client services, implementation, UX, race car driving.
 
 2011-2012    Boston Interactive -------------------------------------- Boston MA
-     client services, software implementation, mentor.
+     Software implementation, client services, mentor.
 
 2009-2011    Cambridge BioMarketing ------------------------------- Cambridge MA
-     client services, software implementation.
+     Software implementation, client services.
 
 2007-2009    RDVO, Inc ------------------------------------------- Somerville MA
-     software implementation, open web standards evangelism.
+     Software implementation, open web standards evangelism.
 
-2007        n2N Commerce ------------------------------------------ Cambridge MA
-     software implementation, testing.
+2007-2007   n2N Commerce ------------------------------------------ Cambridge MA
+     Software implementation, testing.
 
 2003-2007    HP (Autonomy) ---------------------------------------- Cambridge MA
-     software implementation, testing, network administration.
+     Software implementation, testing, network administration.
 
 2000-2002    Cyber Access, Rovia Inc, Dell (EMC) ------------- Greater Boston MA
-     testing, network administration.
+     Testing, network administration.
 
 
 PUBLICATIONS
 
 2021         The Society of the Spectacle by Guy Debord --- Unredacted Word, LLC
-     critical analysis, research, translation, editing, typesetting.
+     Critical analysis, research, writing, translation, editing, typesetting.
 
 
 EDUCATION
