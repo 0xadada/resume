@@ -26,3 +26,7 @@ brew install --cask font-computer-modern
 pandoc -d config/html
 pandoc -d config/pdf
 ```
+
+## Printing Resume
+
+Output format to HTML, open Print dialog. Print to PDF.

@@ -9,23 +9,15 @@ Ron Adams
 --------------------------------------------------------------------------------
 Somerville MA USA   ron@0xadada.pub   linkedin.com/in/ron-a   github.com/0xadada
 
+Staff software engineer  with a passion for building  great products.  Expertise
+and intuition in  multiple technology stacks. Independently design and implement
+systems given loose business requirements and goals. Mentors other engineers.
 
-Staff software engineer with a passion for building great products. Deep
-expertise and intuition  in  multiple technology stacks. Independently design and
-implement systems given loose business requirements and goals. Mentor other
-engineers.
-
-Successfully defined technical strategy and drove execution across Salsify, Cinch
-Financial, Nara Logics and other companies to implement products that are usable,
-accessible, delightful, performant, maintainable and cost effective. Achieved
-significant impact at several companies as a leader in the field of web
-applications, has built products that been seen by millions at Amazon, Walmart,
-Target and other big retailers with brands such as Levi's, 3M, and L'Oréal.
-
-Create  functional,  well-tested,  maintainable  web software. Enjoys  building
-highly available,  web  applications  using  open  source  software. Advocate of
-privacy,  open  web  standards,  and security. Speaks  and writes
-about society, surveillance, critical theory, and technology.
+Defined technical strategy and drove execution across Salsify, Cinch Financial,
+Nara Logics to implement  products  that  are usable,  accessible,  delightful,
+performant, maintainable and cost  effective.  Built products that been seen  by
+millions at Amazon, Walmart, Target and other big retailers with brands such as
+Levi's, 3M, and L'Oréal.
 
 
 EXPERIENCE

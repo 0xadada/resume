@@ -41,6 +41,6 @@ a:hover {
 
 code,
 pre {
-  font-family: monospace;
+  font-family: 'CMUTypewriter-Regular', 'CMUSerif-Roman', monospace;
 }
 
