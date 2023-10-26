@@ -40,7 +40,7 @@ EXPERIENCE
 2007-2009    RDVO, Inc ------------------------------------------- Somerville MA
      Software implementation, open web standards evangelism.
 
-2007-2007   n2N Commerce ------------------------------------------ Cambridge MA
+2007-2007    n2N Commerce ----------------------------------------- Cambridge MA
      Software implementation, testing.
 
 2003-2007    HP (Autonomy) ---------------------------------------- Cambridge MA
@@ -49,7 +49,7 @@ EXPERIENCE
 
 PUBLICATIONS
 
-2021         "The Society of the Spectacle" by Guy Debord ------ Unredacted Word
+2021        "The Society of the Spectacle" by Guy Debord ------- Unredacted Word
      Critical analysis, research, writing, translation, editing, typesetting.
 
 
