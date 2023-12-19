@@ -13,11 +13,11 @@ Staff software engineer  with a passion for building  great products.  Expertise
 and intuition in  multiple technology stacks. Independently design and implement
 systems given loose business requirements and goals. Mentors other engineers.
 
-Defined technical strategy and drove execution across Salsify, Cinch  Financial,
-Nara Logics to implement  products  that  are  usable,  accessible,  delightful,
-performant, maintainable and cost  effective.  Built products that been seen  by
-millions at Amazon, Walmart, Target and other big retailers  with brands such as
-Levi's, 3M, and L'Oréal.
+Defined technical vision & strategy, lead execution at Salsify, Cinch Financial,
+Nara Logics,  and implemented products that are usable, accessible,  delightful,
+performant, maintainable and cost effective. Built tools used by retailers such
+as Amazon, Walmart, Target, and more. Partnered with leaders at brands including
+3M, Levi's, and L'Oréal to solve global B2B initiatives.
 
 
 EXPERIENCE
@@ -49,12 +49,12 @@ EXPERIENCE
 
 PUBLICATIONS
 
-2021        "The Society of the Spectacle" by Guy Debord ------- Unredacted Word
+2021        ‟The Society of the Spectacle” --------------------- Unredacted Word
      Critical analysis, research, writing, translation, editing, typesetting.
 
 
 EDUCATION
 
-2015 MAS.S65 Blockchain Technologies  ---------------------------- MIT Media Lab
-2004 BS Computer Science & Cognitive Psychology -------- Northeastern University
+MAS.S65 Blockchain Technologies ---------------------------------- MIT Media Lab
+BS Computer Science & Cognitive Psychology ------------- Northeastern University
 ```
