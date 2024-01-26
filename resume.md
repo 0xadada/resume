@@ -9,7 +9,7 @@ Ron Adams
 --------------------------------------------------------------------------------
 Somerville MA USA   ron@0xadada.pub   linkedin.com/in/ron-a   github.com/0xadada
 
-Full-stack Staff software engineer  with a passion for  building great products.
+Fullstack frontend software engineer with a passion for building great products.
 Expertise and intuition in  multiple technology stacks. Independently design and
 implement systems given business requirements and goals. Mentor.
 
