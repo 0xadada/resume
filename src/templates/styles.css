@@ -40,6 +40,7 @@ body {
 a {
   color: var(--primary-text-color);
 }
+
 a:hover {
   color: #0000cc;
 }
@@ -47,5 +48,7 @@ a:hover {
 code,
 pre {
   font-family: 'CMUTypewriter-Regular', 'CMUSerif-Roman', monospace;
+  max-width: 81ch;
+  white-space: break-spaces;
+  text-align: justify;
 }
-

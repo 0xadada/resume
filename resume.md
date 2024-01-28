@@ -9,17 +9,9 @@ Ron Adams
 --------------------------------------------------------------------------------
 Somerville MA USA   ron@0xadada.pub   linkedin.com/in/ron-a   github.com/0xadada
 
-Fullstack frontend software engineer with a passion for building great products.
-Expertise and intuition in  multiple technology stacks. Independently design and
-implement systems given business requirements and goals. Mentor.
+Fullstack frontend software engineer with a passion for building great products. Expertise and intuition in multiple technology stacks. Independently design and implement systems given business requirements and goals. Mentor.
 
-Defined technical vision & strategy, lead execution at Salsify, Cinch Financial,
-Nara Logics.  Designed & implemented software that is usable,  accessible, fast,
-delightful, performant, maintainable and cost effective.  Significant impact  at
-several companies as a leader in web applications development building products
-seen by millions at Amazon, Walmart, Target for brands such as Levi's, 3M, and
-L'Oréal.
-
+Defined technical vision & strategy, lead execution at Salsify, Cinch Financial, Nara Logics. Designed & implemented software that is usable, accessible, fast, delightful, performant, maintainable and cost effective. Significant impact at several companies as a leader in web applications development building products seen by millions at Amazon, Walmart, Target for brands such as Levi's, 3M, and L'Oréal.
 
 EXPERIENCE
 
@@ -47,21 +39,14 @@ EXPERIENCE
 2003-2007    HP (Autonomy), Research SE --------------------------- Cambridge MA
      Software implementation, testing, network administration.
 
-
 SKILLS
 
-TypeScript,  JavaScript,  Elixir, Python, Ruby,  Bash,  SQL, React,   HTML, CSS,
-Ember,  Next.js, Node.js, web3.js, WebExtensions API, Websockets, GraphQL, REST,
-AWS, Solidity, Ethereum, bitcoin, AI (neural networks, collaborative filtering),
-Kubernetes,   scalability,  web   performance,  GDPR, microservices,  continuous
-integration, automated testing, agile.
-
+TypeScript, JavaScript, Elixir, Python, Ruby, Bash, SQL, React, HTML, CSS, Ember, Next.js, Node.js, web3.js, WebExtensions API, Websockets, progressive web apps (PWA), GraphQL, REST, AWS, Solidity, Ethereum, bitcoin, AI (neural networks, collaborative filtering), Kubernetes, scalability, web performance, GDPR, microservices, continuous integration, automated testing, agile.
 
 PUBLICATIONS
 
 2021        ‟The Society of the Spectacle” --------------------- Unredacted Word
      Critical analysis, research, writing, translation, editing, typesetting.
-
 
 EDUCATION
 
