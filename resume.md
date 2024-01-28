@@ -66,5 +66,7 @@ PUBLICATIONS
 EDUCATION
 
 MAS.S65 Blockchain Technologies ---------------------------------- MIT Media Lab
-BS Computer Science & Cognitive Psychology ------------- Northeastern University
+BSCS Computer Science ---------------------------------- Northeastern University
+     Concentration: Artificial Intelligence
+     Minor: Human-Centered Computing / Cognitive Psychology, Japanese.
 ```
