@@ -7,7 +7,7 @@ title: Ron Adams - Resume
 Ron Adams
 
 --------------------------------------------------------------------------------
-Somerville MA USA   ron@0xadada.pub   linkedin.com/in/ron-a   github.com/0xadada
+Somerville MA USA   ron@0xadada.pub   github.com/0xadada   linkedin.com/in/ron-a
 
 Fullstack frontend software engineer with a passion for building great products. Expertise and intuition in multiple technology stacks. Independently design and implement systems given business requirements and goals. Mentor.
 
@@ -33,25 +33,22 @@ EXPERIENCE
 2007-2009    RDVO, Senior SE ------------------------------------- Somerville MA
      Software implementation, open web standards evangelism.
 
-2007-2007    n2N Commerce, Web Developer -------------------------- Cambridge MA
-     Software implementation, testing.
-
 2003-2007    HP (Autonomy), Research SE --------------------------- Cambridge MA
      Software implementation, testing, network administration.
 
 SKILLS
 
-TypeScript, JavaScript, Elixir, Python, Ruby, Bash, SQL, React, HTML, CSS, Ember, Next.js, Node.js, web3.js, WebExtensions API, Websockets, progressive web apps (PWA), GraphQL, REST, AWS, Solidity, Ethereum, bitcoin, AI (neural networks, collaborative filtering), Kubernetes, scalability, web performance, GDPR, microservices, continuous integration, automated testing, agile.
+TypeScript, JavaScript, HTML, CSS, React, Ember.js, Next.js, web3.js, Node.js, WebExtensions API, Websockets, GraphQL, REST, scalability, web performance, progressive web apps (PWA), Elixir, Python, Ruby, Bash, SQL, bitcoin, Ethereum, Solidity, AWS, Kubernetes, GDPR, microservices, continuous integration, automated testing, agile.
 
 PUBLICATIONS
 
-2021        ‟The Society of the Spectacle” --------------------- Unredacted Word
-     Critical analysis, research, writing, translation, editing, typesetting.
+2021 “The Society of the Spectacle” ---------------------------- Unredacted Word
+     Writing, research, analysis, translation, editing, typesetting, development
 
 EDUCATION
 
 MAS.S65 Blockchain Technologies ---------------------------------- MIT Media Lab
 BSCS Computer Science ---------------------------------- Northeastern University
      Concentration: Artificial Intelligence
-     Minor: Human-Centered Computing / Cognitive Psychology, Japanese.
+     Minor: Human-Centered Computing / Cognitive Psychology, Japanese
 ```
