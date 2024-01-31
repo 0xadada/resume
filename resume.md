@@ -21,9 +21,9 @@ EXPERIENCE
      Amazon, Walmart, Target, (and more) for brands including Levi's, 3M, and L'Oréal.
 
 2016-2018    CINCH FINANCIAL, Principal SE ------------------------------------- Boston MA
-     Lead frontend technical strategy, systems design, and software implementation. 
-     Delivered delightful & performant AI recommender apps for personal financial advice.
-     Co-organizer and frequent speaker at the Boston Ember.js Community meetup.
+     Lead frontend technical strategy, systems design, and software implementation. Wrote
+     delightful and performant AI recommender apps providing personal financial advice.
+     Co-organizer and frequent speaker at the Boston Ember.js community.
 
 2012-2016    NARA LOGICS, Principal SE, Senior SE --------------------------- Cambridge MA
      Lead systems design & software implementation, security, technical strategy,
@@ -34,13 +34,13 @@ EXPERIENCE
      ASP.NET C# Developer Certification.
 
 2009-2011    CAMBRIDGE BIOMARKETING, Senior SE ------------------------------ Cambridge MA
-     Software implementation, testing, client services.
+     Software implementation, testing, open web standards evangelism, client services.
 
 2007-2009    RDVO, Senior SE ----------------------------------------------- Somerville MA
      Software implementation, testing, open web standards evangelism.
 
 2003-2007    HP (via Autonomy), Research SE --------------------------------- Cambridge MA
-     Software implementation, testing, network administration, server rack building.
+     Software implementation, testing, data center operations, server hardware assembly.
 
 SKILLS
 
