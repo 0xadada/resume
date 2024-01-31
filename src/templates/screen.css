@@ -1,8 +1,8 @@
 @media screen and (min-width: 840px) {
-  body {
+  .e-content {
     box-shadow: rgb(60 64 67 / 15%) 0px 1px 3px 1px;
-    padding: 0.9in;
+    padding: 0.45in;
     margin: 1in auto;
-    width: 8.5in;
+    max-width: 8.5in;
   }
 }

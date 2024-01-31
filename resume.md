@@ -4,51 +4,61 @@ title: Ron Adams - Resume
 ---
 
 ```text
+
 Ron Adams
 
---------------------------------------------------------------------------------
-Somerville MA USA   ron@0xadada.pub   github.com/0xadada   linkedin.com/in/ron-a
+-----------------------------------------------------------------------------------------
+Somerville MA USA      ron@0xadada.pub      github.com/0xadada      linkedin.com/in/ron-a
 
-Fullstack frontend software engineer with a passion for building great products. Expertise and intuition in multiple technology stacks. Independently design and implement systems given business requirements and goals. Mentor.
-
-Defined technical vision & strategy, lead execution at Salsify, Cinch Financial, Nara Logics. Designed & implemented software that is usable, accessible, fast, delightful, performant, maintainable and cost effective. Significant impact at several companies as a leader in web applications development building products seen by millions at Amazon, Walmart, Target for brands such as Levi's, 3M, and L'Oréal.
+Fullstack frontend software engineer with a passion for building great products. Expertise and intuition in multiple technology stacks. Independently designs and implements systems given business requirements and goals. Significant impact at multiple companies as a technical leader & mentor in web application development. Frequent speaker & ally.
 
 EXPERIENCE
 
-2018-2023    Salsify, Staff SE --------------------------------------- Boston MA
-     Tech leadership, systems design & implementation, product strategy, mentor.
+2018-2023    SALSIFY, Staff SE, Senior SE3 ------------------------------------- Boston MA
+     Lead technical vision & strategy, systems design, and software implementation for 
+     Catalog Sites. Co-lead systems design and implementation for Enhanced Content. Both 
+     achieved $1.5M ARR in their first year while powering content seen by millions at
+     Amazon, Walmart, Target, (and more) for brands including Levi's, 3M, and L'Oréal.
 
-2016-2018    Cinch Financial, Principal SE --------------------------- Boston MA
-     Systems design and implementation, automation, security, speaking.
+2016-2018    CINCH FINANCIAL, Principal SE ------------------------------------- Boston MA
+     Lead frontend technical strategy, systems design, and software implementation. 
+     Delivered delightful & performant AI recommender apps for personal financial advice.
+     Co-organizer and frequent speaker at the Boston Ember.js Community meetup.
 
-2012-2016    Nara Logics, Principal SE, Senior SE ----------------- Cambridge MA
-     Systems design & implementation, security, technical strategy, automation.
+2012-2016    NARA LOGICS, Principal SE, Senior SE --------------------------- Cambridge MA
+     Lead systems design & software implementation, security, technical strategy,
+     automation. Wrote a lifestyle AI recommendation app for web/iOS/Android.
 
-2011-2012    Boston Interactive, Senior SE --------------------------- Boston MA
-     Software implementation, client services, mentor.
+2011-2012    BOSTON INTERACTIVE, Senior SE ------------------------------------- Boston MA
+     Software implementation, client services, systems design, mentor. Awarded SiteCore
+     ASP.NET C# Developer Certification.
 
-2009-2011    Cambridge BioMarketing, Senior SE -------------------- Cambridge MA
-     Software implementation, client services.
+2009-2011    CAMBRIDGE BIOMARKETING, Senior SE ------------------------------ Cambridge MA
+     Software implementation, testing, client services.
 
-2007-2009    RDVO, Senior SE ------------------------------------- Somerville MA
-     Software implementation, open web standards evangelism.
+2007-2009    RDVO, Senior SE ----------------------------------------------- Somerville MA
+     Software implementation, testing, open web standards evangelism.
 
-2003-2007    HP (Autonomy), Research SE --------------------------- Cambridge MA
-     Software implementation, testing, network administration.
+2003-2007    HP (via Autonomy), Research SE --------------------------------- Cambridge MA
+     Software implementation, testing, network administration, server rack building.
 
 SKILLS
 
-TypeScript, JavaScript, HTML, CSS, React, Ember.js, Next.js, web3.js, Node.js, WebExtensions API, Websockets, GraphQL, REST, scalability, web performance, progressive web apps (PWA), Elixir, Python, Ruby, Bash, SQL, bitcoin, Ethereum, Solidity, AWS, Kubernetes, GDPR, microservices, continuous integration, automated testing, agile.
+Languages  TypeScript JavaScript HTML CSS Python Elixir Ruby Bash Solidity JAVA PHP SQL 
+Frameworks React Ember.js Next.js Node.js Web3.js Kubernetes AWS Browser extensions PWAs
+           Websockets GraphQL REST Bitcoin Ethereum
+Practices  Scalability Microservices Web performance Build-Measure-Learn MVP User-centered
+           design Responsive design Agile Internationalization Accessibility Automated
+           testing Continuous integration GDPR
 
 PUBLICATIONS
 
-2021 “The Society of the Spectacle” ---------------------------- Unredacted Word
+2021 “The Society of the Spectacle” -------------------------------------- Unredacted Word
      Writing, research, analysis, translation, editing, typesetting, development
 
 EDUCATION
 
-MAS.S65 Blockchain Technologies ---------------------------------- MIT Media Lab
-BSCS Computer Science ---------------------------------- Northeastern University
-     Concentration: Artificial Intelligence
-     Minor: Human-Centered Computing / Cognitive Psychology, Japanese
+MAS.S65 Blockchain Technologies -------------------------------------------- MIT Media Lab
+BSCS Computer Science -------------------------------------------- Northeastern University
+     Concentration in Artificial Intelligence, minor in Human-Centered Computing.
 ```

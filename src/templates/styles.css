@@ -48,7 +48,9 @@ a:hover {
 code,
 pre {
   font-family: 'CMUTypewriter-Regular', 'CMUSerif-Roman', monospace;
-  max-width: 81ch;
   white-space: break-spaces;
   text-align: justify;
+}
+.e-content {
+  margin: 0 auto;
 }
