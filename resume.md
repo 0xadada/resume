@@ -1,6 +1,6 @@
 
 ---
-title: Ron Adams - Resume
+title: Ron Adams - Software Engineer - Resume
 ---
 
 ```text
@@ -8,7 +8,7 @@ title: Ron Adams - Resume
 Ron Adams
 
 -----------------------------------------------------------------------------------------
-Somerville MA USA      ron@0xadada.pub      github.com/0xadada      linkedin.com/in/ron-a
+Somerville MA USA      resume2024@pm.me     github.com/0xadada      linkedin.com/in/ron-a
 
 Fullstack frontend software engineer with a passion for building great products. Expertise and intuition in multiple technology stacks. Independently designs and implements systems given business requirements and goals. Significant impact at multiple companies as a technical leader & mentor in web application development. Frequent speaker & ally.
 
