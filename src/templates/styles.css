@@ -1,6 +1,26 @@
 @font-face {
-  font-family: "CMUTypewriter-Regular";
-  src: local('CMUTypewriter-Regular');
+  font-family: "cmu_typewriter_text";
+  src: url("cmuntt.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "cmu_typewriter_text";
+  src: url("cmuntb.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "cmu_typewriter_text";
+  src: url("cmunit.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "cmu_typewriter_text";
+  src: url("cmuntx.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
 }
 
 :root {
@@ -47,7 +67,7 @@ a:hover {
 
 code,
 pre {
-  font-family: 'CMUTypewriter-Regular', 'CMUSerif-Roman', monospace;
+  font-family: "cmu_typewriter_text", monospace;
   white-space: break-spaces;
   text-align: justify;
 }
